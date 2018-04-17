@@ -36,3 +36,9 @@
   lastName: Benton
   affiliation: Red Hat
   email: willb@redhat.com
+- github: chrisheecho
+  slack: chrisheecho
+  firstName: Chris
+  lastName: Cho
+  affiliation: Google
+  email: chrisheecho@google.com
